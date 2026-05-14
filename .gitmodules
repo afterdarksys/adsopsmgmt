@@ -7,3 +7,6 @@
 [submodule "adsyslib"]
 	path = adsyslib
 	url = https://github.com/straticus1/adsyslib.git
+[submodule "adssh"]
+	path = adssh
+	url = https://github.com/afterdarksys/adssh.git
